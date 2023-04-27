@@ -1,0 +1,6 @@
+0 GO 
+1 Stop 
+2 Slight-Left 
+3 Slight-Right 
+4 Full-Left 
+5 Full-Right 
